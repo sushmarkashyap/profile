@@ -11,7 +11,7 @@ body {
     margin: auto;
 }
 .my-header-right img {
-    width: 120px;
+    width: 200px;
 }
 .my-article-1 p {
     font-size: 18px;
@@ -31,10 +31,13 @@ body {
 .my-article-6 ul li {
     font-size: 18px;
 }
-.my-article-7 {
+.my-article-7 ul li {
     font-size: 18px;
 }
 
-.my-article-8 th tr td {
+table {
     font-size: 18px;
 }
+table, th, td {
+    border: 1px solid black;
+ }
