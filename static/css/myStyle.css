@@ -1,5 +1,5 @@
 body {
-    font-size: 83.7%;
+    font-size: 100%;
     background-color: #e9e9e9;
 
 }
@@ -11,7 +11,7 @@ body {
     margin: auto;
 }
 .my-header-right img {
-    width: 200px;
+    /* width: 200px; */
 }
 .my-article-1 p {
     font-size: 18px;
