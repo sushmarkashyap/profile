@@ -7,37 +7,40 @@ body {
     display: flex;
     flex-direction: row;
 }
-.my-header-left, .my-header-right {
+.my-header-left{
+    font-size: 20px;
+}
+ .my-header-right {
     margin: auto;
 }
 .my-header-right img {
     /* width: 200px; */
 }
-.my-article-1 p {
-    font-size: 18px;
+.article-1 p {
+    font-size: 24px;
 }
-.my-article-2 ul li {
-    font-size: 18px;
+.article-2 ul li {
+    font-size: 20px;
 }
-.my-article-3 ul li {
-    font-size: 18px;
+.article-3 ul li {
+    font-size: 20px;
 }
-.my-article-4 ul li {
-    font-size: 18px;
+.article-4 ul li {
+    font-size: 20px;
 }
-.my-article-5 ul li {
-    font-size: 18px;
+.article-5 ul li {
+    font-size: 20px;
 }
-.my-article-6 ul li {
-    font-size: 18px;
+.article-6 ul li {
+    font-size: 20px;
 }
-.my-article-7 ul li {
-    font-size: 18px;
+.article-7 p {
+    font-size: 20px;
 }
 
-table {
-    font-size: 18px;
+.table {
+    font-size: 20px;
 }
-table, th, td {
+.table, th, td {
     border: 1px solid black;
  }
